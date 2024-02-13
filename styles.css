@@ -1,0 +1,29 @@
+/*--banner and Logo--*/ 
+.hd { text-align: center;}
+#hd { text-align: center;}
+#logo {width:100%; height:400px;
+    ;
+}
+/*---body---*/
+* {color: white;}
+body {background-color: black;}
+/*---buttons---*/
+.rb {color: white;
+    background-color: red;
+}
+.gb {color: white;
+    background-color: green;
+}
+.bb {color: white;
+    background-color: blue;
+}
+.yb {color: black;
+    background-color: yellow;
+}
+.pb {color: white;
+    background-color: purple;
+}
+/*---Whose-The-Index-For---*/
+.wtif {text-decoration: underline;
+    text-align: center;
+}
